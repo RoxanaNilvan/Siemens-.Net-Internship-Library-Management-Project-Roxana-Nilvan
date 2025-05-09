@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{058FBEBC-E9F3-45EA-AE09-A87892F57629}|..\\LibraryManagementSystem.BusinessLogic\\LibraryManagementSystem.BusinessLogic.csproj|c:\\users\\roxan\\source\\repos\\librarymanagementsystem.businesslogic\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632AEA0B-EA69-46C8-86B7-AD0A8DB89CDD}|..\\LibraryManagementSystem.DataAccess\\LibraryManagementSystem.DataAccess.csproj|c:\\users\\roxan\\source\\repos\\librarymanagementsystem.dataaccess\\repository\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C942FC22-6F0B-414B-A022-E847A232ED39}|..\\LibraryManagementSystem.Presentation\\LibraryManagementSystem.Presentation.csproj|c:\\users\\roxan\\source\\repos\\librarymanagementsystem.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C942FC22-6F0B-414B-A022-E847A232ED39}|..\\LibraryManagementSystem.Presentation\\LibraryManagementSystem.Presentation.csproj|c:\\users\\roxan\\source\\repos\\librarymanagementsystem.presentation\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9D3882-EC3B-466F-B8FC-0495561A36B5}|..\\LibraryManagementSystem.Domain\\LibraryManagementSystem.Domain.csproj|c:\\users\\roxan\\source\\repos\\librarymanagementsystem.domain\\dtos\\loandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058FBEBC-E9F3-45EA-AE09-A87892F57629}|..\\LibraryManagementSystem.BusinessLogic\\LibraryManagementSystem.BusinessLogic.csproj|c:\\users\\roxan\\source\\repos\\librarymanagementsystem.businesslogic\\services\\interfaces\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9D3882-EC3B-466F-B8FC-0495561A36B5}|..\\LibraryManagementSystem.Domain\\LibraryManagementSystem.Domain.csproj|c:\\users\\roxan\\source\\repos\\librarymanagementsystem.domain\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9D3882-EC3B-466F-B8FC-0495561A36B5}|..\\LibraryManagementSystem.Domain\\LibraryManagementSystem.Domain.csproj|c:\\users\\roxan\\source\\repos\\librarymanagementsystem.domain\\dtos\\loancreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632AEA0B-EA69-46C8-86B7-AD0A8DB89CDD}|..\\LibraryManagementSystem.DataAccess\\LibraryManagementSystem.DataAccess.csproj|c:\\users\\roxan\\source\\repos\\librarymanagementsystem.dataaccess\\repository\\readerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632AEA0B-EA69-46C8-86B7-AD0A8DB89CDD}|..\\LibraryManagementSystem.DataAccess\\LibraryManagementSystem.DataAccess.csproj|c:\\users\\roxan\\source\\repos\\librarymanagementsystem.dataaccess\\repository\\interfaces\\ireaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632AEA0B-EA69-46C8-86B7-AD0A8DB89CDD}|..\\LibraryManagementSystem.DataAccess\\LibraryManagementSystem.DataAccess.csproj|c:\\users\\roxan\\source\\repos\\librarymanagementsystem.dataaccess\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632AEA0B-EA69-46C8-86B7-AD0A8DB89CDD}|..\\LibraryManagementSystem.DataAccess\\LibraryManagementSystem.DataAccess.csproj|c:\\users\\roxan\\source\\repos\\librarymanagementsystem.dataaccess\\repository\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoanDto.cs",
+              "DocumentMoniker": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.Domain\\DTOS\\LoanDto.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementSystem.Domain\\DTOS\\LoanDto.cs",
+              "ToolTip": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.Domain\\DTOS\\LoanDto.cs",
+              "RelativeToolTip": "..\\LibraryManagementSystem.Domain\\DTOS\\LoanDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:25:28.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoanService.cs",
+              "DocumentMoniker": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.BusinessLogic\\Services\\LoanService.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementSystem.BusinessLogic\\Services\\LoanService.cs",
+              "ToolTip": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.BusinessLogic\\Services\\LoanService.cs",
+              "RelativeToolTip": "..\\LibraryManagementSystem.BusinessLogic\\Services\\LoanService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAgwFAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:21:24.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.Domain\\Entities\\Loan.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementSystem.Domain\\Entities\\Loan.cs",
+              "ToolTip": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.Domain\\Entities\\Loan.cs",
+              "RelativeToolTip": "..\\LibraryManagementSystem.Domain\\Entities\\Loan.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:20:58.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoanCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.Domain\\DTOS\\LoanCreateDto.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementSystem.Domain\\DTOS\\LoanCreateDto.cs",
+              "ToolTip": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.Domain\\DTOS\\LoanCreateDto.cs",
+              "RelativeToolTip": "..\\LibraryManagementSystem.Domain\\DTOS\\LoanCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:17:38.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.Presentation\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementSystem.Presentation\\Controllers\\LoanController.cs",
+              "ToolTip": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.Presentation\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "..\\LibraryManagementSystem.Presentation\\Controllers\\LoanController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAuwEUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:46:15.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILoanService.cs",
+              "DocumentMoniker": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.BusinessLogic\\Services\\Interfaces\\ILoanService.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementSystem.BusinessLogic\\Services\\Interfaces\\ILoanService.cs",
+              "ToolTip": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.BusinessLogic\\Services\\Interfaces\\ILoanService.cs",
+              "RelativeToolTip": "..\\LibraryManagementSystem.BusinessLogic\\Services\\Interfaces\\ILoanService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:32:21.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementSystem.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.Presentation\\Program.cs",
+              "RelativeToolTip": "..\\LibraryManagementSystem.Presentation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:31:16.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.DataAccess\\Repository\\LoanRepository.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementSystem.DataAccess\\Repository\\LoanRepository.cs",
+              "ToolTip": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.DataAccess\\Repository\\LoanRepository.cs",
+              "RelativeToolTip": "..\\LibraryManagementSystem.DataAccess\\Repository\\LoanRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA5wC4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:20:21.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.DataAccess\\Repository\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementSystem.DataAccess\\Repository\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.DataAccess\\Repository\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "..\\LibraryManagementSystem.DataAccess\\Repository\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:23:05.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IReaderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.DataAccess\\Repository\\Interfaces\\IReaderRepository.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementSystem.DataAccess\\Repository\\Interfaces\\IReaderRepository.cs",
+              "ToolTip": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.DataAccess\\Repository\\Interfaces\\IReaderRepository.cs",
+              "RelativeToolTip": "..\\LibraryManagementSystem.DataAccess\\Repository\\Interfaces\\IReaderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:20:54.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReaderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.DataAccess\\Repository\\ReaderRepository.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementSystem.DataAccess\\Repository\\ReaderRepository.cs",
+              "ToolTip": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.DataAccess\\Repository\\ReaderRepository.cs",
+              "RelativeToolTip": "..\\LibraryManagementSystem.DataAccess\\Repository\\ReaderRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:20:37.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.DataAccess\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementSystem.DataAccess\\Repository\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\roxan\\source\\repos\\LibraryManagementSystem.DataAccess\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "..\\LibraryManagementSystem.DataAccess\\Repository\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:19:27.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

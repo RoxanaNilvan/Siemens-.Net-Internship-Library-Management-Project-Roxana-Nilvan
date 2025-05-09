@@ -1,0 +1,11 @@
+C:\Users\roxan\source\repos\LibraryManagementSystem.Domain\bin\Debug\net8.0\LibraryManagementSystem.Domain.deps.json
+C:\Users\roxan\source\repos\LibraryManagementSystem.Domain\bin\Debug\net8.0\LibraryManagementSystem.Domain.dll
+C:\Users\roxan\source\repos\LibraryManagementSystem.Domain\bin\Debug\net8.0\LibraryManagementSystem.Domain.pdb
+C:\Users\roxan\source\repos\LibraryManagementSystem.Domain\obj\Debug\net8.0\LibraryManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roxan\source\repos\LibraryManagementSystem.Domain\obj\Debug\net8.0\LibraryManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\roxan\source\repos\LibraryManagementSystem.Domain\obj\Debug\net8.0\LibraryManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\roxan\source\repos\LibraryManagementSystem.Domain\obj\Debug\net8.0\LibraryManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\roxan\source\repos\LibraryManagementSystem.Domain\obj\Debug\net8.0\LibraryManagementSystem.Domain.dll
+C:\Users\roxan\source\repos\LibraryManagementSystem.Domain\obj\Debug\net8.0\refint\LibraryManagementSystem.Domain.dll
+C:\Users\roxan\source\repos\LibraryManagementSystem.Domain\obj\Debug\net8.0\LibraryManagementSystem.Domain.pdb
+C:\Users\roxan\source\repos\LibraryManagementSystem.Domain\obj\Debug\net8.0\ref\LibraryManagementSystem.Domain.dll

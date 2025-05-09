@@ -1,0 +1,17 @@
+C:\Users\roxan\source\repos\LibraryManagementSystem.BusinessLogic\bin\Debug\net8.0\LibraryManagementSystem.BusinessLogic.deps.json
+C:\Users\roxan\source\repos\LibraryManagementSystem.BusinessLogic\bin\Debug\net8.0\LibraryManagementSystem.BusinessLogic.dll
+C:\Users\roxan\source\repos\LibraryManagementSystem.BusinessLogic\bin\Debug\net8.0\LibraryManagementSystem.BusinessLogic.pdb
+C:\Users\roxan\source\repos\LibraryManagementSystem.BusinessLogic\bin\Debug\net8.0\LibraryManagementSystem.DataAccess.dll
+C:\Users\roxan\source\repos\LibraryManagementSystem.BusinessLogic\bin\Debug\net8.0\LibraryManagementSystem.Domain.dll
+C:\Users\roxan\source\repos\LibraryManagementSystem.BusinessLogic\bin\Debug\net8.0\LibraryManagementSystem.DataAccess.pdb
+C:\Users\roxan\source\repos\LibraryManagementSystem.BusinessLogic\bin\Debug\net8.0\LibraryManagementSystem.Domain.pdb
+C:\Users\roxan\source\repos\LibraryManagementSystem.BusinessLogic\obj\Debug\net8.0\LibraryManagementSystem.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\roxan\source\repos\LibraryManagementSystem.BusinessLogic\obj\Debug\net8.0\LibraryManagementSystem.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roxan\source\repos\LibraryManagementSystem.BusinessLogic\obj\Debug\net8.0\LibraryManagementSystem.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\roxan\source\repos\LibraryManagementSystem.BusinessLogic\obj\Debug\net8.0\LibraryManagementSystem.BusinessLogic.AssemblyInfo.cs
+C:\Users\roxan\source\repos\LibraryManagementSystem.BusinessLogic\obj\Debug\net8.0\LibraryManagementSystem.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\roxan\source\repos\LibraryManagementSystem.BusinessLogic\obj\Debug\net8.0\LibraryM.5EEF1F7A.Up2Date
+C:\Users\roxan\source\repos\LibraryManagementSystem.BusinessLogic\obj\Debug\net8.0\LibraryManagementSystem.BusinessLogic.dll
+C:\Users\roxan\source\repos\LibraryManagementSystem.BusinessLogic\obj\Debug\net8.0\refint\LibraryManagementSystem.BusinessLogic.dll
+C:\Users\roxan\source\repos\LibraryManagementSystem.BusinessLogic\obj\Debug\net8.0\LibraryManagementSystem.BusinessLogic.pdb
+C:\Users\roxan\source\repos\LibraryManagementSystem.BusinessLogic\obj\Debug\net8.0\ref\LibraryManagementSystem.BusinessLogic.dll
